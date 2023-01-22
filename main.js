@@ -26,7 +26,7 @@ const aceite = new Producto(14, "Aceite Natura", 4, "img/aceite.png");
 
 //Array con todo nuestro catálogo de productos: 
 
-const productos = [arroz, azucar, fideos, mermelada, queso, sal, tomate, yerba, lays, pringles, cif, lavandina, lavandinaGel, Aceite];
+const productos = [arroz, azucar, fideos, mermelada, queso, sal, tomate, yerba, lays, pringles, cif, lavandina, lavandinaGel, aceite];
 
 //el Array del Carrito. 
 
