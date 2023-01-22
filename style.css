@@ -1,0 +1,37 @@
+.imgProductos {
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+    margin-top: 1rem;
+}
+
+h1 { 
+    background-color: aquamarine;
+}
+
+h5, h6 {
+    text-align: center;
+}
+
+.card {
+    display: flex;
+    align-items: center;
+    margin: 0.5rem;
+    text-align: center;
+}
+
+.colorBoton {
+    color: white;
+    background-color: #0aa0f0;
+}
+
+.colorBoton:hover {
+    background-color: rgb(5, 238, 176);
+    color: white;
+}
+
+#divDolar {
+    background-color: whitesmoke;
+    color: blue;
+    text-align-last: center;
+}
